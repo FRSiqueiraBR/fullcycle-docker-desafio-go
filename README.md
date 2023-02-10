@@ -18,3 +18,5 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de arquivos em camadas, apresento uma imagem "raiz", talvez seja uma boa utilizá-la.
 
 Divirta-se!
+
+Link da imagem: https://hub.docker.com/layers/frsiqueira/fullcycle/latest/images/sha256-20198e7cb9a1b03012cc8d51c6022a205ff6628f4b270769a88b45b05f05cc2b?context=repo
